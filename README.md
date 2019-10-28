@@ -1,4 +1,4 @@
-# daily_expances
+# daily_expenses
 
 A new Flutter project.
 
